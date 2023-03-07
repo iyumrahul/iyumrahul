@@ -7,11 +7,6 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
 - 💬 Ask me about anything related to data science and machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iyumrahul/)
 - ⚡ Fun fact: I love to explore new data sets and build predictive models\
-## Projects:
-
-- [Project 1](https://github.com/yourusername/project1): A description of the project and your contributions.
-- [Project 2](https://github.com/yourusername/project2): A description of the project and your contributions.
-- [Project 3](https://github.com/yourusername/project3): A description of the project and your contributions.
 
 ## 🚀 Skills
 
