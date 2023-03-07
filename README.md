@@ -3,7 +3,7 @@
 I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮🇳.
 
 - 🔭 I’m currently working on [Time Series Data 😉](https://github.com/your-username)
-- 🌱 I’m currently learning advanced machine learning techniques and big data technologies.
+- 🌱 I’m currently learning advanced machine learning techniques .
 - 💬 Ask me about anything related to data science and machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iyumrahul/)
 - ⚡ Fun fact: I love to explore new data sets and build predictive models\
