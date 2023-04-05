@@ -54,6 +54,7 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India ğŸ‡®ğ
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&&logo=git&logoColor=white" />
 </p>
 
 
