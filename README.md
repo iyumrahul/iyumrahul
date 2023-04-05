@@ -2,11 +2,11 @@
 
 I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮🇳.
 
-- 🔭 I’m currently working on [Time Series Data 😉](https://github.com/your-username)
-- 🌱 I’m currently learning advanced machine learning techniques .
+- 🔭 I’m currently working on [Pytorch 😉](https://github.com/iyumrahul/pytorch)
+- 🌱 I’m currently learning advanced machine learning techniques.
 - 💬 Ask me about anything related to data science and machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iyumrahul/)
-- ⚡ Fun fact: I love to explore new data sets and build predictive models\
+- ⚡ Fun fact: I love to explore new data sets and build predictive models.
 
 ## 🚀 Skills
 
@@ -15,8 +15,7 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
 </p>
 
 ### 📈 Data Analysis and Visualization
@@ -36,10 +35,12 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
 
 <p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ## 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/iyumrahul">
-    <img src="https://github-readme-streak
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyumrahul
