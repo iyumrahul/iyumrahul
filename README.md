@@ -10,7 +10,7 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
 
 ## 🚀 Skills
 
-### 💻 Programming
+### 💻 Programming and DB Languages
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
