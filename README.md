@@ -50,7 +50,7 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### 💻 Tools
+### 💻 skills
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
