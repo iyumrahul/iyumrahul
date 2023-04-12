@@ -30,10 +30,3 @@ I'm Rahul A, a passionate self-taught Data Science practitioner from India 🇮�
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&&logo=git&logoColor=white" />
 </p>
 
-
-  
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/iyumrahul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyumrahul
