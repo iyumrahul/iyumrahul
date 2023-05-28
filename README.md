@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAHUL A</h1>
-<h3 align="center">A passionate self-taught Data Science practitioner from India.</h3>
+<h3 align="center">A passionate self-taught Data Science practitioner from Bangalore,India.</h3>
 
 - 🌱 I’m currently learning **Pytorch**
 
